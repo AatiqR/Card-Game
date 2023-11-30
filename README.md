@@ -1,2 +1,2 @@
 # Card-Game
-I create a mini game for matching same picture. Then you win game 
+I created a mini-game for matching the same picture. Then you win the game 
